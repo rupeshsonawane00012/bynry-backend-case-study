@@ -133,6 +133,4 @@ Role-based access control
 Multi-warehouse support
 Docker deployment
 Cloud deployment (AWS)
-👨‍💻 Author
 
-Rupesh Gorakhnath Sonawane
